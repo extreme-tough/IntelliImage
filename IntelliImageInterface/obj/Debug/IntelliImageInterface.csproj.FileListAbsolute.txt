@@ -1,0 +1,5 @@
+c:\projects\cuebiztech\IntelliImage\IntelliImageInterface\bin\Debug\IntelliImageInterface.dll
+c:\projects\cuebiztech\IntelliImage\IntelliImageInterface\bin\Debug\IntelliImageInterface.pdb
+c:\projects\cuebiztech\IntelliImage\IntelliImageInterface\obj\Debug\ResolveAssemblyReference.cache
+c:\projects\cuebiztech\IntelliImage\IntelliImageInterface\obj\Debug\IntelliImageInterface.dll
+c:\projects\cuebiztech\IntelliImage\IntelliImageInterface\obj\Debug\IntelliImageInterface.pdb

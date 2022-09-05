@@ -1,0 +1,17 @@
+c:\projects\cuebiztech\IntelliImage\IntelliImage\bin\Debug\IntelliImage.exe
+c:\projects\cuebiztech\IntelliImage\IntelliImage\bin\Debug\IntelliImage.pdb
+c:\projects\cuebiztech\IntelliImage\IntelliImage\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\projects\cuebiztech\IntelliImage\IntelliImage\obj\x86\Debug\IntelliImage.Properties.Resources.resources
+c:\projects\cuebiztech\IntelliImage\IntelliImage\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\projects\cuebiztech\IntelliImage\IntelliImage\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\projects\cuebiztech\IntelliImage\IntelliImage\obj\x86\Debug\IntelliImage.exe
+c:\projects\cuebiztech\IntelliImage\IntelliImage\obj\x86\Debug\IntelliImage.pdb
+c:\projects\cuebiztech\IntelliImage\IntelliImage\obj\x86\Debug\IntelliImage.MainForm.resources
+c:\projects\cuebiztech\IntelliImage\IntelliImage\obj\x86\Debug\IntelliImage.MainForm1.resources
+c:\projects\cuebiztech\IntelliImage\IntelliImage\bin\Debug\IntelliImageInterface.dll
+c:\projects\cuebiztech\IntelliImage\IntelliImage\bin\Debug\IntelliImageInterface.pdb
+c:\projects\cuebiztech\IntelliImage\IntelliImage\bin\Debug\Telerik.WinControls.dll
+c:\projects\cuebiztech\IntelliImage\IntelliImage\bin\Debug\Telerik.WinControls.UI.dll
+c:\projects\cuebiztech\IntelliImage\IntelliImage\bin\Debug\TelerikCommon.dll
+c:\projects\cuebiztech\IntelliImage\IntelliImage\bin\Debug\Telerik.WinControls.xml
+c:\projects\cuebiztech\IntelliImage\IntelliImage\bin\Debug\Telerik.WinControls.UI.xml
